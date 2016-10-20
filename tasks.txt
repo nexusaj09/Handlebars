@@ -1,0 +1,18 @@
+create new repo
+$ npm init 
+create README.md
+$ git init 
+$ git add .
+$ git commit -m "first commit"
+$ git config user.email ""
+$ git config user.name ""
+$ git remote add origin link
+$ git push -u origin master 
+
+adding anoter file 
+$ git add .tasks
+$ git commit -m "adding .tasks" 
+
+checking status 
+git status
+git push
