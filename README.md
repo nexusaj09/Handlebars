@@ -2,8 +2,8 @@
 
 * Using git bash
 
-1. create new repo
-1. $ npm init 
+1. ```create new repo```
+1. ```$ npm init``` 
 1. create README.md
 1. $ git init 
 1. $ git add .
@@ -19,7 +19,7 @@
 1. $ git commit -m "adding .tasks" 
 
 * checking status
- 
+
 1. git status
 1. git push
 
