@@ -1,6 +1,6 @@
 #Introduction to Express-Handlebars
 
-Using git bash
+* Using git bash
 
 1. create new repo
 1. $ npm init 
